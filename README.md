@@ -17,7 +17,9 @@ Prompt: profile_ clean shaved gustav person <br>
 <img src="3_profile_ clean shaved gustav person.png" width="324"><br>
 <br>
 ## 1. Preprocessing the images so that the background is removed
+Prompt: profile_LinkedIn profile of gustav person in a suit <br>
 <br><img src="traing_data with_no_bg_2.png" width="324"><br>
+Prompt: CV profile of gustav person in a suit <br>
 <img src="traing_data with_no_bg_1.png" width="324"><br>
 
 
